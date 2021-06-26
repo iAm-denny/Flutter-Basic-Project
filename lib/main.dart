@@ -11,6 +11,9 @@ import 'package:redux/redux.dart';
 import 'package:flutter_redux/flutter_redux.dart';
 import 'redux/reducers.dart';
 
+// ****** redux tutorial
+// https://www.youtube.com/watch?v=vzCszJQ_qZQ&t=501s
+
 void main() {
   final _initialState = AppState(sliderFontSize: 0.5);
   // same name as reducer.dart so only one
